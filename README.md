@@ -56,6 +56,18 @@ Some of the Important Concepts:
 - For example, a pixel value of (0, 0, 0) in RGB/BGR represents black, while (255, 255, 255) represents white. Intermediate values represent varying shades and colors.
 
 
+### Image Operations
+
+- Reading the image.
+- Converting image from 1 format to another format.
+- Resizing the image
+- Image Cropping
+- Image Masking
+- Flip Image
+- Writing the image
+- Image Data Augmentation
+
+
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
